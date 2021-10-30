@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="comparison">
+    <title>Comparison</title>
+    <body>
+        <p></p>
+        <p>There are different wireless technologies on the market which are replacing a cable-based connection. These technologies allow a data transfer with a range of up to 100 meters. It is common for these technologies that receiver devices need their own power supply due to the larger working distance, thus the receiving device cannot be powered by the RF field. Another consequence of the larger working distance is the need for the user to configure their device and to pair them together for the communication as this connection cannot be initiated by a simple touch gesture. For these wireless technologies NFC provides an additional service as it can simplify the pairing process between two devices. Famous examples for these wireless technologies are Bluetooth, Wi-Fi and Zigbee technology.</p>
+        <p>The IrDa technology is a short range (a few meters) connection based on the exchange of data over infrared light. To make an IrDA connection the user must position the two communication devices within a line of sight. For larger data communication with computer devices this technology was replaced by Bluetooth or WiFi connections, this is why IrDa technology today is mainly used for remote control devices. Similar to the previously described wireless technologies, the IrDA receiver must also have its own power supply.</p>
+        <p>RFID technologies uses a similar communication technology as NFC technology but it uses other base frequencies for the generated RF field. These technologies are used in various markets however they do not target the wide range of use cases as NFC offers for consumers and end customers.</p>
+    </body>
+</topic>

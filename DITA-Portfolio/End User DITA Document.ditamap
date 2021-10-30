@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title></title>
+    <topichead navtitle="NFC Introduction">
+        <topicref href="Introduction.dita"/>
+    </topichead>
+    <topichead navtitle="Comparison with other wireless technologies">
+        <topicref href="comparison.dita"/>
+    </topichead>
+    <topichead navtitle="NFC Technology">
+        <topicref href="concept_explanation.dita"/>
+    </topichead>
+    <topichead navtitle="NFC Applications">
+        <topicref href="Applications.dita"/>
+    </topichead>
+</map>

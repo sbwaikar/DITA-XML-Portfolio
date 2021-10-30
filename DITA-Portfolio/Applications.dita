@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="untitled8">
+    <title>Applications of NFC</title>
+    <body>
+        <p></p>
+        <p>NFC technology has evolved from a combination of contactless identification and interconnection technologies including RFID and it allows connectivity to be achieved very easily over distances of a few centimetres. Simply by bringing two electronic devices close together they are able to communicate and this greatly simplifies the issues of identification and security, making it far easier to exchange information. In this way it is anticipated that Near Field Communications, NFC technology will allow the complex set-up procedures required for some longer range technologies to be avoided.</p>
+        <p>Near field communication NFC lends itself ideally to a whole variety of applications. These include:</p>
+        <ul id="ul_tfl_gtt_krb">
+            <li>Payment cards</li>
+            <li>Ticketing</li>
+            <li>Mobile phones, PDAs, etc</li>
+            <li>Check-out cash registers or "point-of-sale" equipment</li>
+            <li>Turnstiles</li>
+            <li>Vending machines</li>
+            <li>Parking meters</li>
+            <li>ATMs</li>
+            <li>Applications around the office and house, e.g. garage doors, etc</li>
+        </ul>
+    </body>
+</topic>
